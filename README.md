@@ -4,9 +4,15 @@ Make Webserver using AWS ( public &amp; private subnet,EC2 instance, RDS, S3, Au
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#Topology">topology</a></li>
+    <li><a href="#Topology">Topology</a></li>
     <li>
-    <a href="#EC2 Instance">EC2 Instance</a></li>
+    <a href="#VPC dan Subnet">VPC & Subnet</a>
+    <ul>
+        <li><a href="#VPC">VPC</a></li>
+        <li><a href="#Subnet">Subnet</a></li>
+    </ul>
+    </li>
+    <li><a href="#EC2 Instance">EC2 Instance</a></li>
   </ol>
 </details>
 
