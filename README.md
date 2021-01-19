@@ -6,7 +6,7 @@ Make Webserver using AWS ( public &amp; private subnet,EC2 instance, RDS, S3, Au
   <ol>
     <li><a href="#Topology">topology</a></li>
     <li>
-    <a href="#EC2 Instance">ec2 Instance</a></li>
+    <a href="#EC2 Instance">EC2 Instance</a></li>
   </ol>
 </details>
 
