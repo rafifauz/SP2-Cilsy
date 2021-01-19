@@ -18,3 +18,9 @@ Make Webserver using AWS ( public &amp; private subnet,EC2 instance, RDS, S3, Au
 
 ## Topology
 <img src="Image/Topologi.png" width="100%" height="100%">
+
+## VPC dan Subnet
+Sebelum melakukan
+
+#### VPC 
+#### Subnet
