@@ -17,7 +17,10 @@ Make Webserver using AWS ( public &amp; private subnet,EC2 instance, RDS, S3, Au
 </details>
 
 ## Topology
-<img src="Image/Topologi.png" width="100%" height="100%">
+<img src="Image/Topologi-SP2.png" width="100%" height="100%">
+
+## Documentation
+[Power Point for SP2](https://github.com/rafifauz/SP2-Cilsy/blob/main/Documentation/sp2-cILSY.pptx)
 
 ## VPC dan Subnet
 Sebelum melakukan
